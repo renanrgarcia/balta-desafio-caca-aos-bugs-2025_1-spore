@@ -23,9 +23,9 @@ Neste processo eu aprendi:
 - ✅ Instalar o Visual Studio Code, Visual Studio ou Rider
 - ✅ Configurar as variáveis de ambiente
 - ✅ Criar uma Migration usando Entity Framework
-- [ ] Gerar o banco de dados
-- [ ] Executar a aplicação
-- [ ] Testar a aplicação
+- ✅ Gerar o banco de dados
+- ✅ Executar a aplicação
+- ✅ Testar a aplicação
 
 ## Sobre o Caça aos Bugs
 
@@ -34,4 +34,4 @@ Banco de Dados.
 
 ### Veja meu progresso no desafio
 
-[Incluir link para o repositório central]
+[Caça aos Bugs 2025 - Renan Garcia](https://github.com/renanrgarcia/balta-desafio-caca-aos-bugs-2025)
